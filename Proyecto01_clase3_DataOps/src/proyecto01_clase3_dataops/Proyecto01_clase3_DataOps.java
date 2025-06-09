@@ -17,6 +17,7 @@ public class Proyecto01_clase3_DataOps {
         System.out.print("Ingresar número 2: ");
         num2 = lectura.nextDouble();
         
+        //ACTUALIZANDO
         //proceso de datos
         
         suma = num1 + num2;
